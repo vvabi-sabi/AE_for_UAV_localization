@@ -15,5 +15,5 @@ epochs number = 10
 ###output:
 ![crop2](output.png)
 
-## TODO
-Variational autoencoder - [VAE](https://github.com/L1aoXingyu/pytorch-beginner/blob/9c86be785c7c318a09cf29112dd1f1a58613239b/08-AutoEncoder/Variational_autoencoder.py)
+## Variational AutoEncoder
+by [VAE](https://github.com/L1aoXingyu/pytorch-beginner/blob/9c86be785c7c318a09cf29112dd1f1a58613239b/08-AutoEncoder/Variational_autoencoder.py)
